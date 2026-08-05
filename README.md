@@ -121,7 +121,6 @@ Passionate about building secure, scalable web applications and continuously lea
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-snake.svg">
   </picture>
 </p>
-
 ---
 
 # 🌐 Connect With Me
