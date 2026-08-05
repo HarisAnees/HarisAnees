@@ -6,6 +6,11 @@
 <!-- ID Badge (SVG Animation) -->
 <img src="lanyard.svg?v=1" alt="Haris Anees Developer ID" width="200">
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarisAnees&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
 # Hi 👋, I'm Haris Anees
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;PHP+Developer;Backend+Developer;Secure+Coding+Enthusiast;Always+Learning+New+Technologies" />
