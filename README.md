@@ -74,7 +74,6 @@ Passionate about building secure, scalable web applications and continuously lea
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
