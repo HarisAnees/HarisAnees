@@ -103,6 +103,7 @@ Passionate about building secure, scalable web applications and continuously lea
 ---
 
 # 🌐 Connect With Me
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
