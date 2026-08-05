@@ -75,15 +75,7 @@ Passionate about building secure, scalable web applications and continuously lea
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=radical" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisAnees&theme=radical" alt="GitHub Streak" />
-</div>
 ---
 
 # 🏆 Achievements
