@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="./assets/banner.svg" alt="Haris Anees Banner" width="100%">
+</p>
 # Hi 👋, I'm Haris Anees
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;PHP+Developer;Backend+Developer;Secure+Coding+Enthusiast;Always+Learning+New+Technologies" />
