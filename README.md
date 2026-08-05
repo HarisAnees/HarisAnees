@@ -105,21 +105,28 @@ Passionate about building secure, scalable web applications and continuously lea
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 # 🌐 Connect With Me
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
-<a href="https://github.com/HarisAnees">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/HarisAnees" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/haris-anees-0b9925285">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/haris-anees-0b9925285" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:harisanees74@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
