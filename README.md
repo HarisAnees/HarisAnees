@@ -7,7 +7,9 @@
 <img src="./assets/banner.png" alt="Haris Anees Banner" width="100%">
 
 <!-- Animated Lanyard ID Badge -->
-<img src="lanyard.svg?v=1" alt="Haris Anees Developer ID" width="200">
+<div align="center">
+  <img src="lanyard.svg?v=1" alt="Haris Anees Developer ID" width="200">
+</div>
 
 # Hi 👋, I'm Haris Anees
 
