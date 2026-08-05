@@ -1,8 +1,15 @@
-
 <div align="center">
-<p align="center">
-  <img src="./assets/banner.svg" alt="Haris Anees Banner" width="100%">
-</p>
+
+<!-- Animated Banner - Auto switches between dark/light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img alt="Haris Anees - Developer Profile Banner" src="banner.svg?v=1" width="100%">
+</picture>
+
+<!-- ID Badge -->
+<img src="lanyard.svg?v=1" alt="Haris Anees Developer ID" width="200">
+
 # Hi 👋, I'm Haris Anees
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;PHP+Developer;Backend+Developer;Secure+Coding+Enthusiast;Always+Learning+New+Technologies" />
@@ -112,7 +119,11 @@ Passionate about building secure, scalable web applications and continuously lea
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -146,14 +157,3 @@ while(alive){
     Secure();
     Repeat();
 }
-```
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
-
-</div>
