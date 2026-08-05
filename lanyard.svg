@@ -74,21 +74,7 @@
         <animate attributeName="opacity" values="0.3;0.1;0.3" dur="2s" repeatCount="indefinite"/>
       </circle>
 
-      <!-- Your GitHub Avatar - Using the raw avatar URL -->
-   <image
-    x="155"
-    y="195"
-    width="90"
-    height="90"
-    preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#avatarClip)"
-    href="https://raw.githubusercontent.com/HarisAnees/HarisAnees/main/assets/LinkedIn.jpg">
-    <animate
-        attributeName="opacity"
-        values="0;1"
-        dur="1.2s"
-        fill="freeze"/>
-</image>
+    
 
       <!-- Avatar Ring -->
       <circle cx="200" cy="240" r="42" fill="none" stroke="url(#strapGrad)" stroke-width="1.5"/>
