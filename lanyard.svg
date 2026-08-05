@@ -74,7 +74,13 @@
         <animate attributeName="opacity" values="0.3;0.1;0.3" dur="2s" repeatCount="indefinite"/>
       </circle>
 
-    
+    <!-- Default Avatar Icon -->
+<circle cx="200" cy="240" r="45" fill="#0d1f3c" stroke="#1976d2" stroke-width="2.5">
+  <animate attributeName="r" values="0;45" dur="1s" fill="freeze"/>
+</circle>
+<!-- Simple person icon -->
+<circle cx="200" cy="225" r="15" fill="#4fc3f7" opacity="0.6"/>
+<circle cx="200" cy="275" r="25" fill="#4fc3f7" opacity="0.6"/>
 
       <!-- Avatar Ring -->
       <circle cx="200" cy="240" r="42" fill="none" stroke="url(#strapGrad)" stroke-width="1.5"/>
