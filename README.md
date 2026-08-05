@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Haris Anees Banner" width="100%">
+</p>
 <div align="center">
 <p align="center">
   <img src="./assets/banner.svg" alt="Haris Anees Banner" width="100%">
