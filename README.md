@@ -52,6 +52,9 @@ Passionate about building secure, scalable web applications and continuously lea
 ---
 
 # 📊 GitHub Statistics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarisAnees/HarisAnees/main/github-metrics.svg" />
+</p>
 
 <div align="center">
 
