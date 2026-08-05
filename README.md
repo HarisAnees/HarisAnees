@@ -77,8 +77,8 @@ Passionate about building secure, scalable web applications and continuously lea
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -86,15 +86,7 @@ Passionate about building secure, scalable web applications and continuously lea
 # 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarisAnees&theme=tokyonight&hide_border=true&background=0d1117"/>
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarisAnees&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+  <img src="https://streak-stats.demolab.com?user=HarisAnees&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -102,9 +94,20 @@ Passionate about building secure, scalable web applications and continuously lea
 # 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisAnees&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/HarisAnees" alt="Haris Anees's GitHub Contribution Chart"/>
 </div>
 
+---
+
+# 🏆 Achievements
+
+<div align="center">
+  <p>Check out my GitHub achievements: 
+    <a href="https://github.com/HarisAnees?tab=achievements">
+      <img src="https://img.shields.io/badge/View_Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</div>
 ---
 
 # 📌 Featured Projects
