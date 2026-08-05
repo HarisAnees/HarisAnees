@@ -75,20 +75,15 @@ Passionate about building secure, scalable web applications and continuously lea
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisAnees&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisAnees&theme=radical" alt="GitHub Streak" />
 </div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/HarisAnees" alt="Haris Anees's GitHub Contribution Chart"/>
-</div>
-
 ---
 
 # 🏆 Achievements
