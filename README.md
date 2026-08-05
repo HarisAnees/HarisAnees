@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- Your PNG Banner -->
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=HarisAnees&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+<!-- Banner Image -->
 <img src="./assets/banner.png" alt="Haris Anees Banner" width="100%">
 
-<!-- ID Badge (SVG Animation) -->
+<!-- Animated Lanyard ID Badge -->
 <img src="lanyard.svg?v=1" alt="Haris Anees Developer ID" width="200">
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarisAnees&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 
 # Hi 👋, I'm Haris Anees
 
@@ -19,19 +17,14 @@
 
 Passionate about building secure, scalable web applications and continuously learning modern technologies.
 
+<!-- Social Badges -->
 <p>
-<a href="https://github.com/HarisAnees">
-<img src="https://komarev.com/ghpvc/?username=HarisAnees&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/HarisAnees?tab=followers">
-<img src="https://img.shields.io/github/followers/HarisAnees?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/HarisAnees">
-<img src="https://img.shields.io/github/stars/HarisAnees?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
+  <a href="https://github.com/HarisAnees">
+    <img src="https://img.shields.io/github/followers/HarisAnees?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/HarisAnees">
+    <img src="https://img.shields.io/github/stars/HarisAnees?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
+  </a>
 </p>
 
 </div>
@@ -40,16 +33,15 @@ Passionate about building secure, scalable web applications and continuously lea
 
 # 🚀 About Me
 
-- 🎓 Bachelor in Cybersecurity
-- 💻 PHP Backend Developer
-- 🔐 Passionate about Secure Web Applications
-- 🌱 Currently improving Laravel & Advanced PHP
-- 🛠 Love solving backend problems
-- 📚 Learning something new every day
+- 🎓 **Bachelor in Cybersecurity**
+- 💻 **PHP Backend Developer**
+- 🔐 **Passionate about Secure Web Applications**
+- 🌱 **Currently improving:** Laravel & Advanced PHP
+- 🛠 **Love solving:** Backend problems & System Architecture
+- 📚 **Learning:** Something new every day
+- ⚡ **Fun fact:** I speak in code more than I speak in English
 
 ---
-
-# 🛠 Tech Stack
 
 # 🛠 Tech Stack
 
@@ -78,20 +70,14 @@ Passionate about building secure, scalable web applications and continuously lea
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
 ---
 
-# 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
+# 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 ---
@@ -99,9 +85,7 @@ Passionate about building secure, scalable web applications and continuously lea
 # 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HarisAnees&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=HarisAnees&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
 ---
@@ -109,9 +93,7 @@ Passionate about building secure, scalable web applications and continuously lea
 # 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarisAnees&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=HarisAnees&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 </div>
 
 ---
@@ -119,22 +101,20 @@ Passionate about building secure, scalable web applications and continuously lea
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisAnees&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisAnees&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
 </div>
 
 ---
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔐 Secure Authentication System | Email OTP, Password Hashing, RBAC |
-| 📰 CMS Development | TinyMCE, SEO URLs, Version Control |
-| ☕ Coffee Time Website | Modern Responsive Coffee Shop |
-| 🌍 Hush Heaven Travelers | Pakistan Tourism Platform |
-| ✅ Task Management System | Complete CRUD Task Manager |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🔐 Secure Authentication System | Email OTP, Password Hashing, RBAC | PHP, MySQL |
+| 📰 CMS Development | TinyMCE, SEO URLs, Version Control | PHP, JavaScript |
+| ☕ Coffee Time Website | Modern Responsive Coffee Shop | HTML, CSS, JS |
+| 🌍 Hush Heaven Travelers | Pakistan Tourism Platform | PHP, Bootstrap |
+| ✅ Task Management System | Complete CRUD Task Manager | PHP, MySQL |
 
 ---
 
@@ -147,34 +127,33 @@ Passionate about building secure, scalable web applications and continuously lea
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HarisAnees/HarisAnees/output/github-snake.svg">
   </picture>
 </p>
+
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/HarisAnees" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/haris-anees-0b9925285" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:harisanees74@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
+  <a href="https://github.com/HarisAnees" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/haris-anees-0b9925285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:harisanees74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/HarisAnees" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 💡 Fun Fact
 
-```text
-while(alive){
-    Learn();
-    Build();
-    Secure();
-    Repeat();
-}
+```python
+while alive:
+    learn()
+    build()
+    secure()
+    repeat()
