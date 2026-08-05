@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- Animated Banner - Auto switches between dark/light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img alt="Haris Anees - Developer Profile Banner" src="banner.svg?v=1" width="100%">
-</picture>
+<!-- Your PNG Banner -->
+<img src="./assets/banner.png" alt="Haris Anees Banner" width="100%">
 
-<!-- ID Badge -->
+<!-- ID Badge (SVG Animation) -->
 <img src="lanyard.svg?v=1" alt="Haris Anees Developer ID" width="200">
 
 # Hi 👋, I'm Haris Anees
