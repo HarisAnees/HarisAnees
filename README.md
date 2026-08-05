@@ -110,7 +110,7 @@ Passionate about building secure, scalable web applications and continuously lea
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/haris-anees-0b9925285">
+<a href="https://www.linkedin.com/in/haris-anees-0b9925285">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
