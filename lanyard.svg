@@ -81,7 +81,8 @@
     width="90"
     height="90"
     preserveAspectRatio="xMidYMid slice"
-    href="https://raw.githubusercontent.com/HarisAnees/HarisAnees/main/assets/profile.jpg"
+    href="https://raw.githubusercontent.com/HarisAnees/HarisAnees/main/assets/LinkedIn.jpg
+"
     clip-path="url(#avatarClip)">
     <animate
         attributeName="opacity"
