@@ -74,12 +74,13 @@
         <animate attributeName="opacity" values="0.3;0.1;0.3" dur="2s" repeatCount="indefinite"/>
       </circle>
 
-  <!-- Your Local Avatar -->
-<image x="158" y="198" width="84" height="84" 
-       href="assets/LinkedIn.jpg"
-       clip-path="url(#avatarClip)">
-  <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
-</image>
+<!-- Avatar Circle with Letter -->
+<circle cx="200" cy="240" r="45" fill="#1976d2" opacity="0.2">
+  <animate attributeName="r" values="0;45" dur="1s" fill="freeze"/>
+</circle>
+<text x="200" y="255" font-family="'Segoe UI', sans-serif" font-size="36" fill="#4fc3f7" text-anchor="middle" font-weight="bold">
+  H
+</text>
 
       <!-- Avatar Ring -->
       <circle cx="200" cy="240" r="42" fill="none" stroke="url(#strapGrad)" stroke-width="1.5"/>
