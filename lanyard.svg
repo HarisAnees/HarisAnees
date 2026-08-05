@@ -75,13 +75,13 @@
       </circle>
 
       <!-- Your GitHub Avatar - Using the raw avatar URL -->
-     <image
+    <image
     x="155"
     y="195"
     width="90"
     height="90"
-    href="./profile.jpg"
     preserveAspectRatio="xMidYMid slice"
+    href="https://raw.githubusercontent.com/HarisAnees/HarisAnees/main/assets/profile.jpg"
     clip-path="url(#avatarClip)">
     <animate
         attributeName="opacity"
