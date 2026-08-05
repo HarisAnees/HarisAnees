@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:white;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:white;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:white;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#0d1f3c"/>
+    </linearGradient>
+    <linearGradient id="strapGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1976d2"/>
+      <stop offset="50%" style="stop-color:#42a5f5"/>
+      <stop offset="100%" style="stop-color:#1976d2"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="200" cy="240" r="40"/>
+    </clipPath>
+  </defs>
+
+  <g>
+    <!-- Lanyard strap -->
+    <path d="M200 0 L200 150" stroke="url(#strapGrad)" stroke-width="6" fill="none"/>
+    <path d="M200 0 L200 150" stroke="#1976d2" stroke-width="3" fill="none" opacity="0.3"/>
+
+    <!-- Strap text -->
+    <text x="212" y="75" font-family="'Courier New', monospace" font-size="11" fill="#4fc3f7" font-weight="bold" transform="rotate(90,212,75)">
+      HARISANEES ● SECURE
+    </text>
+
+    <!-- Clasp / Clip -->
+    <rect x="188" y="140" width="24" height="16" rx="3" fill="#64b5f6"/>
+    <rect x="193" y="144" width="14" height="8" rx="2" fill="#90caf9"/>
+    <circle cx="200" cy="148" r="2" fill="#1565c0"/>
+
+    <!-- Metal Ring -->
+    <circle cx="200" cy="162" r="9" stroke="#64b5f6" stroke-width="2.5" fill="none"/>
+    <circle cx="200" cy="162" r="5" stroke="#90caf9" stroke-width="1" fill="none"/>
+
+    <!-- ID Card - Swinging Pendulum Animation -->
+    <g transform-origin="200px 170px">
+      <animateTransform attributeName="transform" type="rotate" values="-4 200 170;4 200 170;-4 200 170" dur="3.5s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+
+      <!-- Card Shadow -->
+      <rect x="102" y="172" width="196" height="296" rx="12" fill="rgba(0,0,0,0.3)" opacity="0.3"/>
+
+      <!-- Card Body -->
+      <rect x="100" y="170" width="200" height="295" rx="12" fill="url(#cardGrad)" stroke="#1976d2" stroke-width="1.5"/>
+
+      <!-- Card Border Glow -->
+      <rect x="102" y="172" width="196" height="291" rx="10" fill="none" stroke="url(#strapGrad)" stroke-width="0.5" opacity="0.3"/>
+
+      <!-- Holographic Shine Sweep -->
+      <rect x="100" y="170" width="200" height="295" rx="12" fill="url(#shine)">
+        <animate attributeName="opacity" values="0;0;0.6;0.6;0;0" dur="5s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="-200 0;300 0" dur="5s" repeatCount="indefinite"/>
+      </rect>
+
+      <!-- Header Bar -->
+      <rect x="100" y="170" width="200" height="30" rx="12" fill="#1976d2" opacity="0.15"/>
+      <rect x="100" y="188" width="200" height="12" fill="#1976d2" opacity="0.1"/>
+
+      <!-- Security Badge Icon -->
+      <text x="140" y="192" font-size="14" fill="#4fc3f7">🔐</text>
+      <text x="260" y="192" font-size="14" fill="#4fc3f7">🔐</text>
+
+      <!-- Avatar Circle with Glow -->
+      <circle cx="200" cy="240" r="45" fill="#0d1f3c" stroke="#1976d2" stroke-width="2.5">
+        <animate attributeName="r" values="0;45" dur="1s" fill="freeze"/>
+      </circle>
+      <circle cx="200" cy="240" r="47" fill="none" stroke="#4fc3f7" stroke-width="1" opacity="0.3">
+        <animate attributeName="r" values="47;52;47" dur="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0.1;0.3" dur="2s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- Your GitHub Avatar -->
+      <image x="158" y="198" width="84" height="84" 
+             href="https://avatars.githubusercontent.com/HarisAnees"
+             clip-path="url(#avatarClip)">
+        <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+      </image>
+
+      <!-- Avatar Ring -->
+      <circle cx="200" cy="240" r="42" fill="none" stroke="url(#strapGrad)" stroke-width="1.5"/>
+
+      <!-- Divider Line -->
+      <line x1="120" y1="290" x2="280" y2="290" stroke="#1976d2" stroke-width="0.5" opacity="0.3"/>
+
+      <!-- Name -->
+      <text x="200" y="310" font-family="'Segoe UI', 'Helvetica Neue', sans-serif" font-size="22" fill="#4fc3f7" text-anchor="middle" font-weight="bold" letter-spacing="1">
+        Haris Anees
+      </text>
+
+      <!-- Role / Title -->
+      <text x="200" y="335" font-family="'Segoe UI', sans-serif" font-size="13" fill="#64b5f6" text-anchor="middle" font-weight="500">
+        🔐 Cybersecurity Student
+      </text>
+
+      <!-- Subtitle -->
+      <text x="200" y="355" font-family="'Segoe UI', sans-serif" font-size="11" fill="#90caf9" text-anchor="middle" opacity="0.8">
+        PHP Developer • Security Enthusiast
+      </text>
+
+      <!-- GitHub Handle -->
+      <text x="200" y="380" font-family="'Courier New', monospace" font-size="12" fill="#42a5f5" text-anchor="middle" font-weight="bold">
+        @HarisAnees
+      </text>
+
+      <!-- ID Number -->
+      <text x="200" y="400" font-family="'Courier New', monospace" font-size="9" fill="#64b5f6" text-anchor="middle" opacity="0.5" letter-spacing="2">
+        ID: HA-2024-001
+      </text>
+
+      <!-- Barcode -->
+      <g transform="translate(135,412)">
+        <rect x="0" y="0" width="2" height="25" fill="#4fc3f7"/>
+        <rect x="4" y="0" width="4" height="25" fill="#4fc3f7"/>
+        <rect x="10" y="0" width="1.5" height="25" fill="#4fc3f7"/>
+        <rect x="14" y="0" width="3" height="25" fill="#4fc3f7"/>
+        <rect x="19" y="0" width="2" height="25" fill="#4fc3f7"/>
+        <rect x="23" y="0" width="5" height="25" fill="#4fc3f7"/>
+        <rect x="30" y="0" width="1.5" height="25" fill="#4fc3f7"/>
+        <rect x="34" y="0" width="3" height="25" fill="#4fc3f7"/>
+        <rect x="39" y="0" width="2" height="25" fill="#4fc3f7"/>
+        <rect x="43" y="0" width="4" height="25" fill="#4fc3f7"/>
+        <rect x="49" y="0" width="1.5" height="25" fill="#4fc3f7"/>
+        <rect x="53" y="0" width="3.5" height="25" fill="#4fc3f7"/>
+        <rect x="59" y="0" width="2" height="25" fill="#4fc3f7"/>
+        <rect x="63" y="0" width="5" height="25" fill="#4fc3f7"/>
+        <rect x="70" y="0" width="1.5" height="25" fill="#4fc3f7"/>
+        <rect x="74" y="0" width="4" height="25" fill="#4fc3f7"/>
+        <rect x="80" y="0" width="2" height="25" fill="#4fc3f7"/>
+        <rect x="84" y="0" width="3" height="25" fill="#4fc3f7"/>
+        <rect x="89" y="0" width="1.5" height="25" fill="#4fc3f7"/>
+        <rect x="93" y="0" width="4" height="25" fill="#4fc3f7"/>
+        <rect x="99" y="0" width="2" height="25" fill="#4fc3f7"/>
+        <rect x="103" y="0" width="5" height="25" fill="#4fc3f7"/>
+        <rect x="110" y="0" width="1.5" height="25" fill="#4fc3f7"/>
+        <rect x="114" y="0" width="3" height="25" fill="#4fc3f7"/>
+        <rect x="119" y="0" width="2" height="25" fill="#4fc3f7"/>
+      </g>
+
+      <!-- Footer Text -->
+      <text x="200" y="455" font-family="'Courier New', monospace" font-size="7" fill="#64b5f6" text-anchor="middle" opacity="0.4" letter-spacing="1">
+        ●●● SECURE ACCESS ●●●
+      </text>
+
+      <!-- Bottom Glow Line -->
+      <rect x="120" y="462" width="160" height="1" fill="#1976d2" opacity="0.2"/>
+    </g>
+  </g>
+</svg>
