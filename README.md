@@ -1,12 +1,10 @@
+<div align="center">
+
 <!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarisAnees&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=HarisAnees&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 <!-- Banner Image -->
-<p align="center">
-  <img src="./assets/banner.png" alt="Haris Anees Banner" width="100%">
-</p>
+<img src="./assets/banner.png" alt="Haris Anees Banner" width="100%">
 
 <!-- Animated Lanyard ID Badge -->
 <div align="center">
@@ -20,6 +18,18 @@
 ### 🔐 Cybersecurity Student | 💻 PHP Developer | 🚀 Backend Developer
 
 Passionate about building secure, scalable web applications and continuously learning modern technologies.
+
+<!-- Social Badges -->
+<p>
+  <a href="https://github.com/HarisAnees">
+    <img src="https://img.shields.io/github/followers/HarisAnees?style=for-the-badge&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/HarisAnees">
+    <img src="https://img.shields.io/github/stars/HarisAnees?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -54,7 +64,6 @@ Passionate about building secure, scalable web applications and continuously lea
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,29 +74,40 @@ Passionate about building secure, scalable web applications and continuously lea
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarisAnees&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisAnees&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HarisAnees&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/HarisAnees" alt="Haris Anees's GitHub Contribution Chart"/>
+</div>
 
 ---
 
 # 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/HarisAnees?tab=achievements">
-    <img src="https://img.shields.io/badge/🎖️_View_My_Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/🏆_GitHub_Trophies-View_on_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <p>Check out my GitHub achievements: 
+    <a href="https://github.com/HarisAnees?tab=achievements">
+      <img src="https://img.shields.io/badge/View_Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </div>
-
 ---
 
 # 📌 Featured Projects
